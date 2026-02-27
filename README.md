@@ -4,6 +4,9 @@ Projeto desenvolvido como uma página de tributo ao jogador de basquete **Kobe B
 
 O objetivo deste projeto é demonstrar habilidades em **estruturação de páginas web**, **design visual**, **responsividade** e **experiência do usuário**, servindo como peça de portfólio.
 
+🔗 **Veja o projeto em produção:**  
+https://campellodevs.github.io/TributoKB/
+
 ---
 
 ## ✨ Funcionalidades
@@ -47,6 +50,7 @@ Este projeto foi criado com fins educacionais e de portfólio, visando:
 - Animações mais avançadas
 - Internacionalização (PT/EN)
 - Acessibilidade (ARIA, melhorias de contraste)
+- Deploy contínuo com automação (GitHub Actions)
 
 ---
 
@@ -54,7 +58,5 @@ Este projeto foi criado com fins educacionais e de portfólio, visando:
 
 Desenvolvido por **Lucca Campello**  
 📅 2026
-
----
 
 > Projeto de estudo e homenagem, sem fins comerciais.
